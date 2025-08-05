@@ -1,5 +1,5 @@
 # About me:
-🔭 I’m currently working on personal project
+🔭 I'm currently learning Next.js
 
 
 # My Skill's:
