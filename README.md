@@ -3,7 +3,7 @@
 
 
 # My Skill's:
-[![My Skills](https://skillicons.dev/icons?i=react,typescript,js,redux,nodejs,tailwindcss,bootstrap,sass,css,html)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,typescript,js,redux,solidjs,nodejs,tailwindcss,bootstrap,sass,css,html)](https://skillicons.dev)
 
 # I Work With:
 [![My Tools](https://skillicons.dev/icons?i=vscode,git,vite,npm,postman,mongodb,figma,)](https://skillicons.dev)
